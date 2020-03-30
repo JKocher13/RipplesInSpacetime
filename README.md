@@ -1,4 +1,4 @@
-# Python Exam 2
+# Python Exam 2- James
 
 It consists of 4 jupyter notebooks. Each one has a coding problem that must be written.
 When the code is written correctly, the unit test at the bottom of the notebook will
